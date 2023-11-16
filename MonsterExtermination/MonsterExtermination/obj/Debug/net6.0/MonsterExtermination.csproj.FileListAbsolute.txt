@@ -1,0 +1,15 @@
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.exe
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.deps.json
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.runtimeconfig.json
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.dll
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.pdb
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.csproj.AssemblyReference.cache
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.AssemblyInfoInputs.cache
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.AssemblyInfo.cs
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.csproj.CoreCompileInputs.cache
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.dll
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\MonsterExtermination\obj\Debug\net6.0\refint\MonsterExtermination.dll
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.pdb
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.genruntimeconfig.cache
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\MonsterExtermination\obj\Debug\net6.0\ref\MonsterExtermination.dll

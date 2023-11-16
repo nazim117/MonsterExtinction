@@ -1,0 +1,15 @@
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.exe
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.deps.json
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.runtimeconfig.json
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.dll
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.pdb
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.csproj.AssemblyReference.cache
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.AssemblyInfoInputs.cache
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.AssemblyInfo.cs
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.csproj.CoreCompileInputs.cache
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.dll
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\DeliveryBoy\obj\Debug\net6.0\refint\DeliveryBoy.dll
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.pdb
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.genruntimeconfig.cache
+C:\Softuni-Advanced\Practice-Exams\MonsterExtermination\DeliveryBoy\obj\Debug\net6.0\ref\DeliveryBoy.dll
